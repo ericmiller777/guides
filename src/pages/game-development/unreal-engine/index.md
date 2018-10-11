@@ -24,6 +24,8 @@ Unreal has gone through 4 major revisions. Although some code is common between 
 
   * Unreal Engine 4
   Released in 2015 and targets PC, PlayStation 4, Xbox One, Mac OS X, iOS, Android, many VR systems, Linux, SteamOS, and HTML5, and the editor can run on Windows, OS X and Linux. Unreal Script has been removed and replaced with dynamically reloaded C++ modules, and a more advanced visual scripting interface called Blueprints.
+
+As of July 16th, 2018 the current stsble release is version 4.20.
   
 ### Popular Games made in Unreal
 - Batman Arkham City
